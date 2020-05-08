@@ -20,5 +20,7 @@ public class Main {
             }
         }.start();
 
+        System.out.println("updating testing");
+
     }
 }
